@@ -15,9 +15,9 @@ logger  = logging.getLogger(__name__)
 
 userName = "book"
 password = "book"
-ipAddress = "39.102.44.200"
+ipAddress = ""
 port = 3306
-dbName = "sq_web_tp5021"
+dbName = ""
 charset = "utf8"
 
 class BookclassSpiderPipeline:
